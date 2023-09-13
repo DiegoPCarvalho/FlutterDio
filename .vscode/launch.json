@@ -1,0 +1,54 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dioproject",
+            "cwd": "Modulo 1\\dioproject",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dioproject (profile mode)",
+            "cwd": "Modulo 1\\dioproject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dioproject (release mode)",
+            "cwd": "Modulo 1\\dioproject",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "trilhaapp",
+            "cwd": "Modulo 2\\trilhaapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "trilhaapp (profile mode)",
+            "cwd": "Modulo 2\\trilhaapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "trilhaapp (release mode)",
+            "cwd": "Modulo 2\\trilhaapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "meu_app",
+            "cwd": "Modulo 1\\dart\\meu_app",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
